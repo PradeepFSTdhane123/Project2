@@ -1,9 +1,7 @@
 # Project-2   
 ---
 Title: 
-description: Find the maximum product of a contiguous subarray within an array containing both negative and positive integers.
-tags: [Dynamic Programming, Array]
-Technology:
+description: 
 ---
 
 # Problem solution
